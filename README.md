@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate backend dev from Germany</h3>
 
-- 🔭 I’m currently working on [Academiq](#PRIVATE)
+- 🔭 I’m currently working on [Observe](https://github.com/ObServe-Your-Server/Observe-backend)
 
 - 👯 I’m looking to collaborate on [FileExplorer](https://github.com/CodeMarco05/FileExplorer)
 
