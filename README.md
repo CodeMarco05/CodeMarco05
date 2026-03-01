@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate backend dev from Germany</p>
+<p align="left">A backend developer from Germany. I build backend solutions and host stuff for me and my friends. I'm currently working on becoming a better developer while keeping up the fun of learning new things.<br><br>I love building small programs that just do their job, but I also enjoy thinking big when it comes to architecture and enterprise software. A lot of my projects are not on GitHub, so if you are interested just contact me. 🚀</p>
 
 ###
 
